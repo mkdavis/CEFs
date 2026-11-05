@@ -1,0 +1,3 @@
+{
+  "grebe.duckdb.database": ":memory:"
+}
